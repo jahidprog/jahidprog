@@ -1,36 +1,32 @@
-# 👋 Hi, I'm Jahid
+### Hi there! <img src="https://camo.githubusercontent.com/d04509037f646eab5c2d6d130574ef059fa8eef92e45a139a827a8d06e9d5042/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="30"/>
 
-Aspiring Software Engineer | Lifelong Learner | Code Enthusiast
+I'm **Jahidul Islam** — a fresh Computer Science graduate from **Bangladesh** 🇧🇩  
+I'm passionate about **coding**, **problem-solving**, and building things that make life easier (and cooler 👨‍💻).
 
-Welcome to my GitHub! This is where I explore, build, and share projects as I grow in the world of software engineering. I’m passionate about writing clean, efficient code and learning new technologies along the way.
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning: **Go**, **Web Development**, and **Data Structures**
-- 🎯 Goal: Become a **Full Stack Developer**
-- 📚 Always curious about system design and scalable architectures
-- ⚙️ Tools I work with: Go, JavaScript, HTML/CSS, Git, Linux
+Currently diving deep into **Go (Golang)** development, and excited to explore **AI** and **Machine Learning** in the near future.
 
 ---
 
-## 🛠️ Projects
+### 🛠️ Tech Interests
 
-Here are some of the things you’ll find in my repositories:
-
-- 🔧 **Go Web Servers** — Simple yet powerful HTTP servers and REST APIs
-- 💻 **Frontend Practice** — HTML/CSS layouts and basic JavaScript functionality
-- 🧪 **Mini Projects** — Small apps to practice logic, structure, and problem-solving
-- 📦 **Open Source Contributions** — Coming soon!
+- 🧠 **Currently Exploring**: Go (Golang), REST APIs, Web Development
+- 🌱 **Learning Goals**: Full Stack Development, System Design, Machine Learning
+- 🔧 **Tools I Use**: Git, VS Code, Linux, Postman, Figma
 
 ---
 
-## 📫 Let's Connect
+### 🔥 Side Hustles & Creativity
 
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+📱 I create **tech & self-improvement reels** to share knowledge, boost motivation, and connect with like-minded people.
+
+👉 Follow me on **Facebook** for content:
+[facebook.com/profile.php?id=61551518181986](https://www.facebook.com/profile.php?id=61551518181986)
 
 ---
 
-Thanks for stopping by! Feel free to check out my projects, give feedback, or just say hi 🙌
+### 💼 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisjahid/)
+
+---
+Thanks for visiting my profile — feel free to check out my projects, leave a star ⭐, or drop me a message. Always happy to collaborate and grow together 🚀
