@@ -11,7 +11,7 @@ Currently diving deep into **Go (Golang)** development, and excited to explore *
 
 - 🧠 **Currently Exploring**: Go (Golang), REST APIs, Web Development
 - 🌱 **Learning Goals**: Full Stack Development, System Design, Machine Learning
-- 🔧 **Tools I Use**: Git, VS Code, Linux, Postman, Figma
+- 🔧 **Tools I Use**: Git, VS Code, Linux, Postman
 
 ---
 
