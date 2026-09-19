@@ -18,7 +18,7 @@ me := Engineer{
 	Name: "Jahidul Islam", Origin: "Chattogram, Bangladesh 🇧🇩", Mission: "AI Engineer",
 	Focus: []string{"Applied computer vision (YOLO, VideoMAE, ADAS)", "LLMs, RAG and agentic AI systems", "Backend systems in Go"},
 	Stack: []string{"Python", "PyTorch", "Go", "Docker", "Kubernetes", "SQL"}, Currently: "AI Engineer",
-} // vibes only, no runtime errors here
+} // no runtime errors here
 ```
 
 ## 🔬 Featured Work
